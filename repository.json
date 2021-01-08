@@ -9,6 +9,7 @@
       "required_app_version": "2.1.0.0",
       "uid": "la_mulana_rando",
       "link": "http://dl.dropboxusercontent.com/s/vhuxlzzgi1j04y6/lamulana_maptrack_entrance.zip",
+      "documentation_url" : "https://github.com/blasteg/blasteg.github.io/blob/master/README.md",
       "variants": [
         {
           "name": "Item Tracker",
