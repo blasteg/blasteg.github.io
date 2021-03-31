@@ -35,3 +35,7 @@ Fixed location not showing as available without grail.
 Beta 6/Initial Release:
 1. Refactor to fix that the tracker don't respect requiring flares for Extinction.
 2. Added a workaround for starting weapon pistol
+
+v1.1
+1. Fixing folder structure, so that item only tracker actually works.
+2. Move some stuff around based on importance
