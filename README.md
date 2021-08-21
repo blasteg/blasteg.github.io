@@ -13,8 +13,7 @@ Usage:
 
 FAQ/ Known issue:
 1. Logic requires both having subweapon and access to ammo for it to be in logic, left/right click for weapon/ammo.
-2. Right click the woman statue to get Fertility statue.
-3. Yagomap, Yagostr and Shrine Map is condenced into a "place bone x/3" icon, increment it when you find one of them by cicking it.
+2. Yagomap, Yagostr and Shrine Map is condenced into a "place bone x/3" icon, increment it when you find one of them by cicking it.
 
 Updates: 
 Beta 2:
@@ -39,3 +38,7 @@ Beta 6/Initial Release:
 v1.1
 1. Fixing folder structure, so that item only tracker actually works.
 2. Move some stuff around based on importance
+
+v1.2
+1. Adds NPC and Seal randomization tracking and corresponding logic
+2. rearrange item grid based on my personal feel of item relevancy
