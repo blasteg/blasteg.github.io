@@ -42,3 +42,6 @@ v1.1
 v1.2
 1. Adds NPC and Seal randomization tracking and corresponding logic
 2. rearrange item grid based on my personal feel of item relevancy
+
+v1.3
+1. Update to match Randomizer version 2.30
