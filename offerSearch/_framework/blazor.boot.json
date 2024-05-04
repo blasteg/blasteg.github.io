@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "offerSearch",
   "resources": {
-    "hash": "sha256-lYhlOT95kEJewGJW9QMj6TwjOijTYE44cuQGDpnRkjs=",
+    "hash": "sha256-O2KIbt+UoA4fjyJb7PLU/VLSmHvOCBQVj1uB2Xw4stA=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.1t5jqkoj9w.js": "sha256-D4sYBYmDfH/YekgYRgX959/2RG6k28sJSHmcsn+iikk="
     },
@@ -37,7 +37,7 @@
       "Microsoft.JSInterop.wasm": "sha256-NUkkmWijxCTgUhL0wnMg7GyQrxILfEJiFZIcChpt8xs=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-Kr13V+6zGL8rPvFmuBAsaEJfoMlR4Q8keJHKaVGVbGA=",
       "MudBlazor.wasm": "sha256-kecLvUHGSt/PQkeN93++5XRMMrQCDmh1hvwMkNP4n88=",
-      "offerSearch.wasm": "sha256-70rI96V5kBW2WwE18cSYtPZ2PoYJNsKusZROQyXE50Q=",
+      "offerSearch.wasm": "sha256-f6WXr7pG3Ti3yZeFWkArgYzOVpwE2m7A0Kaiofnm7ZQ=",
       "System.Collections.Concurrent.wasm": "sha256-7m19F1bSlQtN+zMMCLSVacMY7NJp4hUQNw7vuFWORzs=",
       "System.Collections.NonGeneric.wasm": "sha256-YDXUNHN10fUl5455RpXuH0o8ZBUAbSAikAy5oXNRVxQ=",
       "System.Collections.Specialized.wasm": "sha256-t+MdejcaXAVSRNnkk+jrOFUqL2jcj6wGQKvxAhvQFsI=",
