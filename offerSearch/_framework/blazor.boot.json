@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "offerSearch",
   "resources": {
-    "hash": "sha256-bXsmGI3KhcI3RkkIovq4QajdTElWIe87SsBQgOS6wjA=",
+    "hash": "sha256-u6K9ivNqTsqvnM70M5K6mpLyOhTy+676MN9qVq7e02Q=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
@@ -73,7 +73,7 @@
       "System.Threading.wasm": "sha256-yh6ZedymfuSQX9oLx5vroJpl6WfT/2P3Rx2N6U0rRSY=",
       "System.wasm": "sha256-pAY9GZZ7nipBlYcbrQukH9oxvgW24CQewcWTkItVHOs=",
       "System.Private.CoreLib.wasm": "sha256-kpSg5cmnM4IX7oVPpr0Gf63xoSrfIm7QBDJqyEMVWG8=",
-      "offerSearch.wasm": "sha256-5grDxx+v7uLzjddF81jU8uXVTBs3stMIIyESpAhuBD8="
+      "offerSearch.wasm": "sha256-0/u4O+eMyYpWTG7rtncfKLHziv4R+iLHuYOvMGxXejM="
     }
   },
   "cacheBootResources": true,
